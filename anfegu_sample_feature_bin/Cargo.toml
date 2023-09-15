@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anfegu_sample_feature = { path = "../anfegu_sample_feature" }
+anfegu_sample_feature_lib = { path = "../anfegu_sample_feature_lib" }
 
 [[bin]]
 name = "anfegu_sample_feature_bin" 

@@ -1,0 +1,15 @@
+[package]
+name = "anfegu_sample_feature_lib"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"
+ring = "0.16" 
+hex = "0.4"
+
+[lib]
+name = "anfegu_sample_feature_lib" 
+path = "src/lib.rs" 

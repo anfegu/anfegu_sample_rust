@@ -1,6 +1,6 @@
-extern crate anfegu_sample_feature; 
+extern crate anfegu_sample_feature_lib; 
 
-use anfegu_sample_feature::blockchain;
+use anfegu_sample_feature_lib::blockchain;
 use std::error::Error;
 
 fn main() -> Result<(), Box<dyn Error>> {
