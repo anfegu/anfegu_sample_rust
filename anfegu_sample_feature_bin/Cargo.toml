@@ -1,0 +1,13 @@
+[package]
+name = "anfegu_sample_feature_bin"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anfegu_sample_feature = { path = "../anfegu_sample_feature" }
+
+[[bin]]
+name = "anfegu_sample_feature_bin" 
+path = "src/main.rs" 

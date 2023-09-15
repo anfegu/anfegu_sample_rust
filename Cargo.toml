@@ -1,0 +1,2 @@
+[workspace]
+members = ["anfegu_sample_feature", "anfegu_sample_feature_bin"]
