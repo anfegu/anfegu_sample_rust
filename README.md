@@ -6,7 +6,7 @@ This is a simple Rust project that demonstrates the creation of a blockchain and
 
 The project is organized into two main Rust crates:
 
-1. `anfegu_sample_feature`: This crate contains the core blockchain logic and data structures.
+1. `anfegu_sample_feature_lib`: This crate contains the core blockchain logic and data structures.
 
 2. `anfegu_sample_feature_bin`: This crate serves as the entry point for the project and includes the main function.
 
